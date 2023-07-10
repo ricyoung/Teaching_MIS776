@@ -21,7 +21,7 @@ More details can be found in the course syllabus below.
 
 The course schedule is outlined in the 'Business Intelligence Course Syllabus' section. 
 
-*[Link to the Syllabus](Link_to_your_syllabus)*
+*[Link to the Syllabus](00_administrative/MIS776-Fall2023.pdf*
 
 ## Contact
 
