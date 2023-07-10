@@ -1,11 +1,32 @@
-# Teaching_MIS776
-## Business Intelligence Graduate Course
-<!-- ryoung@unlv.edu -->
-## Course Outline
+# MIS776: Business Intelligence Graduate Course
 
-# Business Intelligence Course Syllabus
+[![Status](https://img.shields.io/badge/Status-Ongoing-blue)](#)
+[![Email](https://img.shields.io/badge/Email-ryoung%40unlv.edu-brightgreen)](#)
+
+This repository contains the course materials for the graduate level course in Business Intelligence (MIS776). 
+
+## Table of Contents
+
+- [About the Course](#about-the-course)
+- [Course Schedule](#course-schedule)
+- [Contact](#contact)
+
+## About the Course
+
+MIS776 is a graduate-level course focused on providing an in-depth understanding of Business Intelligence (BI) concepts and tools. Throughout the course, students will gain practical experience in using BI tools, such as SQL, Python, Tableau, PowerBI, and more. This course will also introduce students to the application of various machine learning techniques in the field of BI.
+
+More details can be found in the course syllabus below.
 
 ## Course Schedule
+
+The course schedule is outlined in the 'Business Intelligence Course Syllabus' section. 
+
+*[Link to the Syllabus](Link_to_your_syllabus)*
+
+## Contact
+
+For more information, reach out to the course instructor at ryoung@unlv.edu.
+
 
 | Week Number | Learning Block ID | Learning Block Description | Week Start | Topic | SubTopic | Homework |
 |-------------|-------------------|----------------------------|------------|-------|----------|----------|
