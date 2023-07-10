@@ -3,7 +3,7 @@
 [![Status](https://img.shields.io/badge/Status-Ongoing-blue)](#)
 [![Email](https://img.shields.io/badge/Email-ryoung%40unlv.edu-brightgreen)](#)
 
-This repository contains the course materials for the graduate level course in Business Intelligence (MIS776). 
+This repository contains the course materials for the graduate level course in Business Intelligence (MIS776) at University of Nevada Las Vegas. 
 
 ## Table of Contents
 
